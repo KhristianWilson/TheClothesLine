@@ -1,0 +1,284 @@
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.exe
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.exe.config
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.rsp
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.exe
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.exe.config
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.rsp
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.AppContext.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Console.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.exe
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.exe.config
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.rsp
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.dll.config
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.pdb
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.dll
+C:\Users\Josh\Desktop\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.pdb
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.exe
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.exe.config
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.rsp
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.exe
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.exe.config
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.rsp
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.AppContext.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Console.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.exe
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.exe.config
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.rsp
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.dll.config
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.pdb
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.dll
+C:\Users\Josh\Dropbox\Year 2\Term 1\01 Server Side Web Dev\Project\E1\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.pdb
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csc.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\csi.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.AppContext.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Console.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.Process.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.Compression.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.IO.Pipes.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.AccessControl.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Claims.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Threading.Thread.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.ValueTuple.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XPath.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\vbc.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.dll.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\TheClothesLineV2.pdb
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.csprojResolveAssemblyReference.cache
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.csproj.CoreCompileInputs.cache
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheClothesLineV2 (1)\TheClothesLineV2\TheClothesLineV2\obj\Debug\TheClothesLineV2.pdb
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csc.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csc.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csc.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csi.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csi.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csi.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.AppContext.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Console.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Diagnostics.Process.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.Compression.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.Pipes.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.AccessControl.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Claims.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Threading.Thread.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.ValueTuple.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.XPath.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\vbc.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\vbc.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\vbc.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\TheClothesLineV2.dll.config
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\TheClothesLineV2.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\TheClothesLineV2.pdb
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.csprojResolveAssemblyReference.cache
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.csproj.CoreCompileInputs.cache
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.dll
+D:\School\Term 4\Server Side Web Dev\Project\E1\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.pdb
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csc.exe
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csc.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csc.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csi.exe
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csi.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\csi.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.AppContext.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Console.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Diagnostics.Process.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.Compression.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.IO.Pipes.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.AccessControl.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Claims.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Threading.Thread.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.ValueTuple.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.XPath.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\vbc.exe
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\vbc.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\vbc.rsp
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\TheClothesLineV2.dll.config
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\TheClothesLineV2.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\TheClothesLineV2.pdb
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.csprojResolveAssemblyReference.cache
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.csproj.CoreCompileInputs.cache
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.dll
+D:\School\Term 4\Server Side Web Dev\Project\E2\TheCothesLineV2-E1_Submission\TheClothesLineV2\obj\Debug\TheClothesLineV2.pdb

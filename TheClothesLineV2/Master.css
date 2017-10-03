@@ -1,0 +1,105 @@
+﻿html {
+    max-width: 1024px;
+    margin: auto;
+}
+
+#logo {
+    display: inline-block;
+}
+
+#header{
+    padding:1px;
+    margin-bottom:10px;
+}
+
+#headerRight {
+    float: right;
+    text-align: right;
+    display: inline-block;
+}
+
+#categories {
+    margin-right: 10px;
+    padding: 10px;
+    display: inline-block;
+    float: left;
+    width: 10%;
+}
+
+#subheader {
+    clear:both;
+    text-align:right;
+    margin-bottom: 10px;
+}
+
+.thumb {
+    height: 150px;
+    width: 151px;
+}
+
+.prodDisplay {
+    display:inline-flex;
+}
+
+.featured {
+    float: left;
+    padding: 0 15px;
+}
+
+#prodInfo {
+    clear: both;
+}
+
+#textfield {
+    display:inline-block;
+}
+
+#textfield label {
+    text-align: left;
+    width: 250px;
+    display: inline-block;
+    text-align: left;
+}
+
+#products_frmCatDetails_prodImage{
+    display:inline-block;
+    float:left;
+}
+
+#products_frmCatDetails_lblCatId, #products_frmCatDetails_lblProdId {
+    text-align: left;
+    width: 255px;
+    display: inline-block;
+    text-align: left;
+}
+
+.fullSize {
+    float:left;
+    margin-right: 10px;
+    height: 250px;
+    width: 250px;
+}
+
+.cp0 {
+    background-color: #1E7979;
+}
+
+.cp0c {
+    color: white;
+}
+
+.cp1 {
+    background-color: #9DC8C8;
+}
+
+.cp2 {
+    background-color: #3F9999;
+}
+
+.cp3 {
+    background-color: #064646;
+}
+
+.cp4 {
+    background-color: #003A3A;
+}
